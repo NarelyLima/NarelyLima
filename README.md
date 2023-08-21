@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, I'm Narely Lima 👋
 
-<!--
-**NarelyLima/NarelyLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narely-lima-8b3b781b7/)
 
-Here are some ideas to get you started:
+![Narely's GitHub stats](https://github-readme-stats.vercel.app/api?username=narelylima&show_icons=true&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img align="center" alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<div/>
+
+## Commits
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narelylima&hide_progress=true)
+
+
